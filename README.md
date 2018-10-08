@@ -1,1 +1,12 @@
-# Rcode_bckup_publishedfig
+GRACE1.R
+Grace2.R
+Grace2year.R
+NDVI_sacramento.R
+NDVI_SanJoaquin.R
+R_allscatter_Centralvalley4zones.R
+sacramento.R
+sacramentoTWS.R
+sanjoaquinTWS.R
+temp_sacramentoR.R
+tempsanjoaquinR.R
+Tulare.R
